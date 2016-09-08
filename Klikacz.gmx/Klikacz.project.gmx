@@ -6,13 +6,13 @@
   <NewExtensions/>
   <sounds name="sound"/>
   <sprites name="sprites">
-    <sprite>sprites\sprajt</sprite>
+    <sprite>sprites\sprt_harambe</sprite>
     <sprite>sprites\sprite12</sprite>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
   <objects name="objects">
-    <object>objects\objekt</object>
+    <object>objects\obj_harambe</object>
     <object>objects\object1</object>
   </objects>
   <help>
