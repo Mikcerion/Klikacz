@@ -8,6 +8,7 @@
   <sprites name="sprites">
     <sprite>sprites\sprajt</sprite>
     <sprite>sprites\sprite12</sprite>
+    <sprite>sprites\sprt_harambe_siusior</sprite>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
