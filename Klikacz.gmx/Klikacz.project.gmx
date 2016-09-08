@@ -8,6 +8,7 @@
   <sprites name="sprites">
     <sprite>sprites\sprt_harambe</sprite>
     <sprite>sprites\sprite12</sprite>
+    <sprite>sprites\SPRAJTA</sprite>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
@@ -15,6 +16,9 @@
     <object>objects\obj_harambe</object>
     <object>objects\object1</object>
   </objects>
+  <rooms name="rooms">
+    <room>rooms\rm_harambe</room>
+  </rooms>
   <help>
     <rtf>help.rtf</rtf>
   </help>
